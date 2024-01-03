@@ -13,4 +13,3 @@ setuptools=40.8.0=py36_0
 tensorflow=1.12.0=gpu_py36he68c306_0
 theano=1.0.3=py36hfd86e86_0
 tqdm=4.31.1=py_0
-scikit-optimize=0.7.2=pypi_0
